@@ -1,0 +1,14 @@
+c:\users\benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\bin\Debug\Anno 2205 Sektor Editor.exe.config
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\bin\Debug\Anno 2205 Sektor Editor.exe
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\bin\Debug\Anno 2205 Sektor Editor.pdb
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno 2205 Sektor Editor.csprojResolveAssemblyReference.cache
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\MainWindow.g.cs
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\App.g.cs
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno 2205 Sektor Editor_MarkupCompile.cache
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno 2205 Sektor Editor_MarkupCompile.lref
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\MainWindow.baml
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno 2205 Sektor Editor.g.resources
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno_2205_Sektor_Editor.Properties.Resources.resources
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno 2205 Sektor Editor.csproj.GenerateResource.Cache
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno 2205 Sektor Editor.exe
+C:\Users\Benny\documents\visual studio 2015\Projects\Anno 2205 Sektor Editor\Anno 2205 Sektor Editor\obj\Debug\Anno 2205 Sektor Editor.pdb
